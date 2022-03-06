@@ -1,6 +1,12 @@
 import "./style.css";
 import * as THREE from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
+import sunpng from "../Assets/2k_sun.jpg";
+import earthpng from "../Assets/2k_earth_daymap.jpg";
+import nearthpng from "../Assets/2k_earth_normal_map.jpg";
+import jupiterpng from "../Assets/2k_jupiter.jpg";
+import marspng from "../Assets/2k_mars.jpg";
+import venuspng from "../Assets/2k_venus_atmosphere.jpg";
 //setup
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(
@@ -20,20 +26,12 @@ camera.position.setZ(30);
 const ambientLight = new THREE.AmbientLight(0xffffff);
 scene.add(ambientLight);
 //texture
-const sunTexture = new THREE.TextureLoader().load("../Assets/2k_sun.jpg");
-const jupiterTexture = new THREE.TextureLoader().load(
-  "../Assets/2k_jupiter.jpg"
-);
-const marsTexture = new THREE.TextureLoader().load("../Assets/2k_mars.jpg");
-const venusTexture = new THREE.TextureLoader().load(
-  "../Assets/2k_venus_atmosphere.jpg"
-);
-const earthTexture = new THREE.TextureLoader().load(
-  "../Assets/2k_earth_daymap.jpg"
-);
-const normalEarthTexture = new THREE.TextureLoader().load(
-  "../Assets/2k_earth_normal_map.jpg"
-);
+const sunTexture = new THREE.TextureLoader().load(sunpng);
+const jupiterTexture = new THREE.TextureLoader().load(jupiterpng);
+const marsTexture = new THREE.TextureLoader().load(marspng);
+const venusTexture = new THREE.TextureLoader().load(venuspng);
+const earthTexture = new THREE.TextureLoader().load(earthpng);
+const normalEarthTexture = new THREE.TextureLoader().load(nearthpng);
 
 //sun
 const sphere = new THREE.Mesh(
