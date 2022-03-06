@@ -1,12 +1,12 @@
 import "./style.css";
 import * as THREE from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
-import sunpng from "../Assets/2k_sun.jpg";
-import earthpng from "../Assets/2k_earth_daymap.jpg";
-import nearthpng from "../Assets/2k_earth_normal_map.jpg";
+import sunpng from "./Assets/2k_sun.jpg";
+import earthpng from "./Assets/2k_earth_daymap.jpg";
+import nearthpng from "./Assets/2k_earth_normal_map.jpg";
 import jupiterpng from "../Assets/2k_jupiter.jpg";
-import marspng from "../Assets/2k_mars.jpg";
-import venuspng from "../Assets/2k_venus_atmosphere.jpg";
+import marspng from "./Assets/2k_mars.jpg";
+import venuspng from "./Assets/2k_venus_atmosphere.jpg";
 //setup
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(
