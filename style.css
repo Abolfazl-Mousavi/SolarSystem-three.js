@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Hubballi&family=Roboto+Slab:wght@200&display=swap");
+
+* {
+  font-family: "Roboto Slab", "Hubballi", serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+main {
+  position: absolute;
+  margin: 0, auto;
+}
+p {
+  margin-top: 3000px;
+}
+.header {
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  font-size: 150px;
+  font-family: "Hubballi";
+  color: white;
+}
+.earth {
+  margin-top: 350px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  padding: 15px;
+  color: white;
+  font-size: 20px;
+  float: right;
+  right: 10vh;
+  width: 100vh;
+  background: rgb(41, 134, 221);
+}
+.mars {
+  margin-top: 750px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 15px;
+  color: white;
+  font-size: 20px;
+  float: left;
+  right: 10vh;
+  width: 100vh;
+  background: rgb(180, 77, 17);
+}
+.venus {
+  margin-top: 500px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  padding: 15px;
+  color: white;
+  font-size: 20px;
+  float: right;
+  width: 100vh;
+  background: rgb(228, 198, 30);
+}
+.jupiter {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 200px;
+  padding-right: 200px;
+
+  width: 100%;
+  margin-top: 2000px;
+  margin-bottom: 200px;
+  display: flex;
+  justify-content: space-around;
+  background: #fff;
+}
+footer {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+
+  background-color: rgb(35, 35, 61);
+}
+footer a {
+  color: #fff;
+  margin-top: 1rem;
+  padding-bottom: 10px;
+}
+footer a span {
+  font-size: 23px;
+}
