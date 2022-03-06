@@ -20,19 +20,19 @@ camera.position.setZ(30);
 const ambientLight = new THREE.AmbientLight(0xffffff);
 scene.add(ambientLight);
 //texture
-const sunTexture = new THREE.TextureLoader().load("./Assets/2k_sun.jpg");
+const sunTexture = new THREE.TextureLoader().load("../Assets/2k_sun.jpg");
 const jupiterTexture = new THREE.TextureLoader().load(
-  "./Assets/2k_jupiter.jpg"
+  "../Assets/2k_jupiter.jpg"
 );
-const marsTexture = new THREE.TextureLoader().load("./Assets/2k_mars.jpg");
+const marsTexture = new THREE.TextureLoader().load("../Assets/2k_mars.jpg");
 const venusTexture = new THREE.TextureLoader().load(
-  "./Assets/2k_venus_atmosphere.jpg"
+  "../Assets/2k_venus_atmosphere.jpg"
 );
 const earthTexture = new THREE.TextureLoader().load(
-  "./Assets/2k_earth_daymap.jpg"
+  "../Assets/2k_earth_daymap.jpg"
 );
 const normalEarthTexture = new THREE.TextureLoader().load(
-  "./Assets/2k_earth_normal_map.jpg"
+  "../Assets/2k_earth_normal_map.jpg"
 );
 
 //sun
