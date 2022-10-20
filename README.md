@@ -1,8 +1,9 @@
 # _SolarSystem with Three.js_
 
 
-![SolarSystem with three.js](http://url/to/img.png)
+![SolarSystem with three.js](https://github.com/Abolfazl-Mousavi/SolarSystem-three.js/blob/main/picture.png)
 
+[Visit the site](https://solarsystem-threejs.netlify.app/)
 
 ## Technologies Used
 
