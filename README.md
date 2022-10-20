@@ -5,7 +5,6 @@
 
 ## Technologies Used
 
-* _List all_
 * _React_
 * _JavaScript_
 * _HTML,CSS_
@@ -13,7 +12,7 @@
 
 ## Description
 
-_{My portfolio has a live home page with some living objects if you click on the objects you will route to a new page with some information about me those pages have some beautiful styles. see my portfolio in the link below. }_
+_My portfolio has a live home page with some living objects if you click on the objects you will route to a new page with some information about me those pages have some beautiful styles. see my portfolio in the link below. _
 
 ## Setup/Installation Requirements
 
@@ -27,7 +26,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_[Link text Here](https://link-url-here.org)_
 
 ## Contact Information
 
