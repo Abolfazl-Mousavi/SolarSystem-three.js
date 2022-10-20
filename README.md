@@ -9,13 +9,12 @@
 
 ## Description
 
-_My portfolio has a live home page with some living objects if you click on the objects you will route to a new page with some information about me those pages have some beautiful styles. see my portfolio in the link below. _
+My portfolio has a live home page with some living objects if you click on the objects you will route to a new page with some information about me those pages have some beautiful styles. see my portfolio in the link below. 
 
 ## Setup/Installation Requirements
 
 * there is no setups just clone it 
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* then npm install
 
 ## Known Bugs
 
