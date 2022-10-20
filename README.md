@@ -30,4 +30,4 @@ Distributed under the MIT License. See _[Link text Here]([https://link-url-here.
 
 ## Contact Information
 
-Abolfazl-Mosavi | github:[Github](https://github.com/Abolfazl-Mousavi/SolarSystem-three.js/blob/main/LICENSE.text](https://github.com/Abolfazl-Mousavi))) email: [a.mousavi.doost.04@gmail.com](mailto:a.mousavi.doost@gmail.com))
+Abolfazl-Mosavi | github:[Github](https://github.com/Abolfazl-Mousavi)) email: [a.mousavi.doost.04@gmail.com](mailto:a.mousavi.doost@gmail.com))
