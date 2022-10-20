@@ -25,9 +25,9 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 * i think its better to add more animations to page
 
 ## License
+Distributed under the MIT License. See _[Link text Here]([https://link-url-here.org](https://github.com/Abolfazl-Mousavi/SolarSystem-three.js/blob/main/LICENSE.text))_ for more information.
 
-_[Link text Here](https://link-url-here.org)_
 
 ## Contact Information
 
-_{Add your contact information here.}_
+Abolfazl-Mosavi | github:[Link text Here]([[https://link-url-here.org](https://github.com/Abolfazl-Mousavi/SolarSystem-three.js/blob/main/LICENSE.text](https://github.com/Abolfazl-Mousavi))) email: [a.mousavi.doost.04@gmail.com](mailto:a.mousavi.doost@gmail.com))
