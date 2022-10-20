@@ -2,14 +2,13 @@
 
 ## Technologies Used
 
-* _React_
-* _JavaScript_
-* _HTML,CSS_
-* _TailwindCSS_
+* _Vanilla.js_
+* _Three.js_
+
 
 ## Description
 
-My portfolio has a live home page with some living objects if you click on the objects you will route to a new page with some information about me those pages have some beautiful styles. see my portfolio in the link below. 
+a simple 3D web app about solarsystem and planets inside it 
 
 ## Setup/Installation Requirements
 
@@ -18,7 +17,7 @@ My portfolio has a live home page with some living objects if you click on the o
 
 ## Known Bugs
 
-* i think its better to add more animations to page
+* textures take some time to load
 
 ## License
 Distributed under the MIT License. See _[LICENSE.txt](https://github.com/Abolfazl-Mousavi/SolarSystem-three.js/blob/main/LICENSE.text)_ for more information.
