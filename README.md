@@ -1,8 +1,5 @@
 # _Abolfazl-Mousavi-portfolio_
 
-#### my Personal Portfolio
-#### By Me Abolfazl Mousavi
-
 ## Technologies Used
 
 * _React_
@@ -25,9 +22,9 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 * i think its better to add more animations to page
 
 ## License
-Distributed under the MIT License. See _[Link text Here]([https://link-url-here.org](https://github.com/Abolfazl-Mousavi/SolarSystem-three.js/blob/main/LICENSE.text))_ for more information.
+Distributed under the MIT License. See _[LICENSE.txt]([https://link-url-here.org](https://github.com/Abolfazl-Mousavi/SolarSystem-three.js/blob/main/LICENSE.text))_ for more information.
 
 
 ## Contact Information
 
-Abolfazl-Mosavi | github:[Github](https://github.com/Abolfazl-Mousavi)) email: [a.mousavi.doost.04@gmail.com](mailto:a.mousavi.doost@gmail.com))
+Abolfazl-Mosavi | github:[Github](https://github.com/Abolfazl-Mousavi) email: [a.mousavi.doost.04@gmail.com](mailto:a.mousavi.doost@gmail.com)
