@@ -21,7 +21,7 @@ My portfolio has a live home page with some living objects if you click on the o
 * i think its better to add more animations to page
 
 ## License
-Distributed under the MIT License. See _[LICENSE.txt](https://github.com/Abolfazl-Mousavi/SolarSystem-three.js/blob/main/LICENSE.text))_ for more information.
+Distributed under the MIT License. See _[LICENSE.txt](https://github.com/Abolfazl-Mousavi/SolarSystem-three.js/blob/main/LICENSE.text)_ for more information.
 
 
 ## Contact Information
